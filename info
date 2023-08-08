@@ -31,3 +31,6 @@ git pull
 git stash
 git stash apply (забрать из стэша)
 
+10. Объединение веток
+git merge
+git rebase
