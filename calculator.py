@@ -1,4 +1,5 @@
 import traceback
+#Это наш калькулятор
 class Calculator:
     last_res = None          #переменная по-умолчанию равна нулю
     def sum(self ,n1, n2):       #функция сумма принимает два числа
